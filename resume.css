@@ -1,0 +1,38 @@
+/* h1{
+    color: blue;
+}
+
+h1,p{
+    color: maroon;
+} */
+
+/* *{
+    color: black;
+} */
+h2{
+    background-color: antiquewhite;
+}
+#one{
+    color:red;
+}
+
+.one{
+    color:#ffaaee;
+}
+
+#three{
+    color:rgb(255,90,180);
+}
+
+#four{
+    color:hsl(10,80,80);
+}
+
+body{
+    background-image: url("nationalflag.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}

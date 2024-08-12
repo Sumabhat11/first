@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>My Application</title>
+    </head>
+    <body>
+        <h2> My Web Application </h2>
+	<p>Welcome to the chemical lab</p>
+	<p>The molecular formula of <q>Water</q> is H<sub>2</sub>O</p>
+	<p>The electronics configuration of <q>Oxygen</q> is 1s<sup>2</sup>2s<sup>2</sup>2p<sup>4</sup></p>
+    </body>
+</html>
